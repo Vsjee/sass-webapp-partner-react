@@ -332,7 +332,6 @@ export function AppointmentDashboard() {
             <Button 
               onClick={() => setCurrentView("create-service")}
               variant="business"
-              className="animate-float"
             >
               <Plus className="h-4 w-4 mr-2" />
               Add Service
